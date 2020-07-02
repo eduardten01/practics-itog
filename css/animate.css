@@ -1,0 +1,64 @@
+.header-class__logo{
+    transition: 1s; 
+}
+.header-class__logo:hover{
+transform: scale(1.2);
+}
+.slider__slider-container____images__item_active img{
+    transition: 1s; 
+}
+.slider__slider-container____images__item_active img:hover{
+    transform: scale(1.2);
+}
+.header-content__class__text__info{
+    transition: 1s; 
+}
+.header-content__class__text__info:hover{
+    transform: scale(1.2);
+}
+li{
+
+    -webkit-transition: -webkit-transform .8s ease-in-out;
+}
+
+li:hover{
+    border:solid 1px #45161C;
+    -webkit-transform: rotate(360deg);
+}
+.content-class__circle{
+    transition: 1s; 
+}
+.content-class__circle:hover{
+    transform: scale(1.2);
+}
+.our-contacts__map{
+    transition: 1s; 
+}
+.our-contacts__map:hover{
+    transform: scale(1.4);
+}
+.footer-class__form__general__class__gen__button{
+    transition:1s;  
+}
+.footer-class__form__button:hover{
+    background:url(../img/check.svg);
+    background-repeat:no-repeat;
+    width:300px;
+    height:100px;
+
+    background-position: right center;
+color:#FFFF99}
+    .header-content__class__imgsvg{
+        transition:1s;
+        fill:#FFCE52;
+    }
+    .header-content__class__imgsvg:hover{
+fill:#000000;
+    }
+    .footer-class__general__info__img{
+        transition:1s;
+        fill:#FFCE52;
+    }
+    .footer-class__general__info__img:hover{
+fill:#000000;
+    }
